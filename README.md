@@ -2,7 +2,7 @@
 
 Generador de Contraseñas
 
-## 🚀 ¿Qué hace el script?
+## Qué hace el script?
 - Define una longitud de contraseña.
 - Combina letras mayúsculas, minúsculas, números y símbolos para crear una base de caracteres segura.
 - Utiliza la librería `random` de Python para generar una contraseña única cada vez que se ejecuta.
@@ -17,7 +17,6 @@ Generador de Contraseñas
     ```
 4.  Tu nueva contraseña segura aparecerá en la pantalla. ¡Cópiala y úsala!
 
-## 💬 Mi Conversación con Amazon Q Developer
-Utilicé Amazon Q para que me generara el código completo de este script. Le di las especificaciones exactas: longitud de la contraseña, tipos de caracteres a incluir y cómo debía funcionar. Q me devolvió el script listo para usar.
+
 
 <img width="616" height="188" alt="image" src="https://github.com/user-attachments/assets/0e58ac17-f504-4d59-92a8-549fb580dcb5" />
